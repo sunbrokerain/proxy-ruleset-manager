@@ -3,33 +3,33 @@
     "rules": [
         {
             "domain": [
+                "y.qq.com",
                 "china-img.soulapp.cn",
-                "img.soulapp.cn",
-                "y.qq.com"
+                "img.soulapp.cn"
             ]
         },
         {
             "domain_suffix": [
-                "szbdyd.com",
-                "lf127.net",
-                "ecombdapi.com",
-                "akm-tct.douyucdn.cn",
-                "tc-tct1.douyucdn.cn",
-                "tx2play1.douyucdn.cn",
                 "hlsa-akm.douyucdn.cn",
                 "img.douyucdn.cn",
-                "ws-tct.douyucdn.cn",
-                "hls1a-akm.douyucdn.cn",
-                "hls3a-akm.douyucdn.cn",
-                "hdslb.com",
-                "bilivideo.com",
+                "akm-tct.douyucdn.cn",
                 "hls3-akm.douyucdn.cn",
-                "vplay3a.douyucdn.cn",
+                "ws-tct.douyucdn.cn",
+                "hls3a-akm.douyucdn.cn",
+                "ecombdapi.com",
+                "tc-tct1.douyucdn.cn",
+                "szbdyd.com",
                 "zijieapi.com",
-                "vplay1a.douyucdn.cn",
+                "tx2play1.douyucdn.cn",
+                "lf127.net",
                 "danmuproxy.douyu.com",
+                "bilivideo.com",
+                "vplay3a.douyucdn.cn",
                 "akamaized.net",
-                "wsproxy.douyu.com"
+                "hdslb.com",
+                "hls1a-akm.douyucdn.cn",
+                "wsproxy.douyu.com",
+                "vplay1a.douyucdn.cn"
             ]
         }
     ]
