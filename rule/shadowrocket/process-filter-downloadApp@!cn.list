@@ -1,18 +1,18 @@
-PROCESS-NAME,powershell
+PROCESS-NAME,ruby
+PROCESS-NAME,OrbStack Helper
+PROCESS-NAME,Wabbajack.exe
+PROCESS-NAME,curl.exe
+PROCESS-NAME,python
+PROCESS-NAME,Texifier
 PROCESS-NAME,git-remote-http
 PROCESS-NAME,git
-PROCESS-NAME,ruby
+PROCESS-NAME,powershell
 PROCESS-NAME,powershell.exe
-PROCESS-NAME,SkyrimSE.exe
-PROCESS-NAME,curl
-PROCESS-NAME,Wabbajack.exe
-PROCESS-NAME,python3
-PROCESS-NAME,python
-PROCESS-NAME,Applite
-PROCESS-NAME,OrbStack Helper
-PROCESS-NAME,ModOrganizer.exe
-PROCESS-NAME,wget
 PROCESS-NAME,python.exe
-PROCESS-NAME,Texifier
+PROCESS-NAME,Applite
+PROCESS-NAME,wget
+PROCESS-NAME,SkyrimSE.exe
+PROCESS-NAME,ModOrganizer.exe
+PROCESS-NAME,python3
 PROCESS-NAME,wget.exe
-PROCESS-NAME,curl.exe
+PROCESS-NAME,curl
