@@ -1,7 +1,7 @@
-2025-11-14 12:29:08,894 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/filter-fakeip.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/filter-fakeip.json
-2025-11-14 12:29:09,055 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:09,056 - INFO - filter-fakeip 规则整理完成:
-2025-11-14 12:29:09,056 - INFO - 类型: geosite
+2025-11-15 12:25:22,253 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/filter-fakeip.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/filter-fakeip.json
+2025-11-15 12:25:22,254 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:22,255 - INFO - filter-fakeip 规则整理完成:
+2025-11-15 12:25:22,255 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 91
 规则分析:
@@ -11,10 +11,10 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 6
 --------------------------------------------------
-2025-11-14 12:29:12,176 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/communicationApp-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/communicationApp-filter.json
-2025-11-14 12:29:12,177 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:12,177 - INFO - filter-communicationApp@!cn 规则整理完成:
-2025-11-14 12:29:12,177 - INFO - 类型: process
+2025-11-15 12:25:24,722 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/communicationApp-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/communicationApp-filter.json
+2025-11-15 12:25:24,724 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:24,724 - INFO - filter-communicationApp@!cn 规则整理完成:
+2025-11-15 12:25:24,724 - INFO - 类型: process
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -24,10 +24,10 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:14,395 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/directApp-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/directApp-filter.json
-2025-11-14 12:29:14,480 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:14,480 - INFO - filter-directApp 规则整理完成:
-2025-11-14 12:29:14,480 - INFO - 类型: process
+2025-11-15 12:25:27,644 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/directApp-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/directApp-filter.json
+2025-11-15 12:25:27,646 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:27,646 - INFO - filter-directApp 规则整理完成:
+2025-11-15 12:25:27,646 - INFO - 类型: process
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 29
 规则分析:
@@ -37,8 +37,8 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 28
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:15,346 - INFO - category-video@!cn 规则整理完成:
-2025-11-14 12:29:15,346 - INFO - 类型: geosite
+2025-11-15 12:25:29,300 - INFO - category-video@!cn 规则整理完成:
+2025-11-15 12:25:29,300 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 1
 剩余规则总数: 476
 规则分析:
@@ -48,7 +48,7 @@ domain 被过滤掉的条目数量: 1
   process_name 条目数: 0
   domain_regex 条目数: 5
 --------------------------------------------------
-2025-11-14 12:29:15,346 - INFO - 类型: geoip
+2025-11-15 12:25:29,300 - INFO - 类型: geoip
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 1120
 规则分析:
@@ -58,8 +58,8 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:15,674 - INFO - category-game@cn 规则整理完成:
-2025-11-14 12:29:15,674 - INFO - 类型: geosite
+2025-11-15 12:25:29,921 - INFO - category-game@cn 规则整理完成:
+2025-11-15 12:25:29,921 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 3
 剩余规则总数: 272
 规则分析:
@@ -69,10 +69,10 @@ domain 被过滤掉的条目数量: 3
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:15,741 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/browser-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/browser-filter.json
-2025-11-14 12:29:15,741 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:15,742 - INFO - filter-browser 规则整理完成:
-2025-11-14 12:29:15,742 - INFO - 类型: process
+2025-11-15 12:25:30,052 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/browser-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/browser-filter.json
+2025-11-15 12:25:30,053 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:30,054 - INFO - filter-browser 规则整理完成:
+2025-11-15 12:25:30,054 - INFO - 类型: process
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -82,8 +82,8 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:16,472 - INFO - category-communication@!cn 规则整理完成:
-2025-11-14 12:29:16,472 - INFO - 类型: geosite
+2025-11-15 12:25:31,422 - INFO - category-communication@!cn 规则整理完成:
+2025-11-15 12:25:31,422 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 104
 规则分析:
@@ -93,7 +93,7 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:16,472 - INFO - 类型: geoip
+2025-11-15 12:25:31,422 - INFO - 类型: geoip
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 12
 规则分析:
@@ -103,10 +103,10 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:17,428 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-vpn@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-vpn@amos.json
-2025-11-14 12:29:17,429 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:17,534 - INFO - category-vpn@!cn 规则整理完成:
-2025-11-14 12:29:17,534 - INFO - 类型: geosite
+2025-11-15 12:25:34,593 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-vpn@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-vpn@amos.json
+2025-11-15 12:25:34,737 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:34,872 - INFO - category-vpn@!cn 规则整理完成:
+2025-11-15 12:25:34,872 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 1
 剩余规则总数: 480
 规则分析:
@@ -116,7 +116,7 @@ domain 被过滤掉的条目数量: 1
   process_name 条目数: 0
   domain_regex 条目数: 6
 --------------------------------------------------
-2025-11-14 12:29:17,534 - INFO - 类型: geoip
+2025-11-15 12:25:34,872 - INFO - 类型: geoip
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 1120
 规则分析:
@@ -126,10 +126,10 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:17,587 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/downloadApp@!cn-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/downloadApp@!cn-filter.json
-2025-11-14 12:29:17,587 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:17,588 - INFO - filter-downloadApp@!cn 规则整理完成:
-2025-11-14 12:29:17,588 - INFO - 类型: process
+2025-11-15 12:25:34,983 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/downloadApp@!cn-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/downloadApp@!cn-filter.json
+2025-11-15 12:25:34,984 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:34,985 - INFO - filter-downloadApp@!cn 规则整理完成:
+2025-11-15 12:25:34,985 - INFO - 类型: process
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -139,8 +139,8 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:17,848 - INFO - category-media@!cn 规则整理完成:
-2025-11-14 12:29:17,848 - INFO - 类型: geosite
+2025-11-15 12:25:35,442 - INFO - category-media@!cn 规则整理完成:
+2025-11-15 12:25:35,442 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 578
 规则分析:
@@ -150,8 +150,8 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:17,944 - INFO - category-antip@dev 规则整理完成:
-2025-11-14 12:29:17,944 - INFO - 类型: geosite
+2025-11-15 12:25:35,599 - INFO - category-antip@dev 规则整理完成:
+2025-11-15 12:25:35,599 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 2
 剩余规则总数: 173
 规则分析:
@@ -161,23 +161,23 @@ domain 被过滤掉的条目数量: 2
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:17,998 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-geolocation-!cn.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-geolocation-!cn.json
-2025-11-14 12:29:18,182 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:18,385 - INFO - geolocation-!cn 规则整理完成:
-2025-11-14 12:29:18,385 - INFO - 类型: geosite
+2025-11-15 12:25:35,736 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-geolocation-!cn.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-geolocation-!cn.json
+2025-11-15 12:25:35,917 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:36,134 - INFO - geolocation-!cn 规则整理完成:
+2025-11-15 12:25:36,134 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 477
-剩余规则总数: 26892
+剩余规则总数: 26903
 规则分析:
   domain 条目数: 130
-  domain_suffix 条目数: 26612
+  domain_suffix 条目数: 26623
   ip_cidr 条目数: 0
   process_name 条目数: 0
   domain_regex 条目数: 150
 --------------------------------------------------
-2025-11-14 12:29:18,447 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/offlineApp-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/offlineApp-filter.json
-2025-11-14 12:29:18,447 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:18,448 - INFO - blocker-rejectApp@amos 规则整理完成:
-2025-11-14 12:29:18,448 - INFO - 类型: process
+2025-11-15 12:25:36,262 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/offlineApp-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/offlineApp-filter.json
+2025-11-15 12:25:36,263 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:36,264 - INFO - blocker-rejectApp@amos 规则整理完成:
+2025-11-15 12:25:36,264 - INFO - 类型: process
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -187,21 +187,21 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:18,536 - INFO - category-media 规则整理完成:
-2025-11-14 12:29:18,536 - INFO - 类型: geosite
+2025-11-15 12:25:36,427 - INFO - category-media 规则整理完成:
+2025-11-15 12:25:36,427 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
-剩余规则总数: 1401
+剩余规则总数: 1396
 规则分析:
   domain 条目数: 24
-  domain_suffix 条目数: 1377
+  domain_suffix 条目数: 1372
   ip_cidr 条目数: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:22,347 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-category-game-!cn@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-category-game-!cn@amos.json
-2025-11-14 12:29:22,435 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:22,435 - INFO - category-game 规则整理完成:
-2025-11-14 12:29:22,435 - INFO - 类型: geosite
+2025-11-15 12:25:41,189 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-category-game-!cn@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-category-game-!cn@amos.json
+2025-11-15 12:25:41,330 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:41,330 - INFO - category-game 规则整理完成:
+2025-11-15 12:25:41,330 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 547
 规则分析:
@@ -211,7 +211,7 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:22,435 - INFO - 类型: geoip
+2025-11-15 12:25:41,330 - INFO - 类型: geoip
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 46
 规则分析:
@@ -221,8 +221,8 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:22,510 - INFO - category-media@cn 规则整理完成:
-2025-11-14 12:29:22,510 - INFO - 类型: geosite
+2025-11-15 12:25:41,481 - INFO - category-media@cn 规则整理完成:
+2025-11-15 12:25:41,481 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 2
 剩余规则总数: 226
 规则分析:
@@ -232,8 +232,8 @@ domain 被过滤掉的条目数量: 2
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:22,671 - INFO - category-nsfw@!cn 规则整理完成:
-2025-11-14 12:29:22,671 - INFO - 类型: geosite
+2025-11-15 12:25:41,794 - INFO - category-nsfw@!cn 规则整理完成:
+2025-11-15 12:25:41,794 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 6541
 规则分析:
@@ -243,12 +243,12 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 137
 --------------------------------------------------
-2025-11-14 12:29:23,635 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-jp@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-jp@amos.json
-2025-11-14 12:29:23,636 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:23,689 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-jp@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-jp@amos.json
-2025-11-14 12:29:23,689 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:23,690 - INFO - geolocation-jp 规则整理完成:
-2025-11-14 12:29:23,690 - INFO - 类型: geosite
+2025-11-15 12:25:42,835 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-jp@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-jp@amos.json
+2025-11-15 12:25:42,836 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:42,957 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-jp@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-jp@amos.json
+2025-11-15 12:25:42,958 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:42,958 - INFO - geolocation-jp 规则整理完成:
+2025-11-15 12:25:42,958 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -258,7 +258,7 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:23,690 - INFO - 类型: geoip
+2025-11-15 12:25:42,958 - INFO - 类型: geoip
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -268,12 +268,12 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:23,968 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-direct@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-direct@amos.json
-2025-11-14 12:29:29,015 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:30,233 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-direct@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-direct@amos.json
-2025-11-14 12:29:30,322 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:30,330 - INFO - category-direct 规则整理完成:
-2025-11-14 12:29:30,330 - INFO - 类型: geosite
+2025-11-15 12:25:43,392 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-direct@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-direct@amos.json
+2025-11-15 12:25:48,446 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:50,008 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-direct@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-direct@amos.json
+2025-11-15 12:25:50,325 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:50,333 - INFO - category-direct 规则整理完成:
+2025-11-15 12:25:50,333 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 134
 剩余规则总数: 119099
 规则分析:
@@ -283,33 +283,20 @@ domain 被过滤掉的条目数量: 134
   process_name 条目数: 0
   domain_regex 条目数: 26
 --------------------------------------------------
-2025-11-14 12:29:30,330 - INFO - 类型: geoip
+2025-11-15 12:25:50,333 - INFO - 类型: geoip
 domain 被过滤掉的条目数量: 0
-剩余规则总数: 18500
+剩余规则总数: 18571
 规则分析:
   domain 条目数: 0
   domain_suffix 条目数: 0
-  ip_cidr 条目数: 18500
+  ip_cidr 条目数: 18571
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:30,383 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-eu@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-eu@amos.json
-2025-11-14 12:29:30,384 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:30,384 - INFO - geolocation-eu 规则整理完成:
-2025-11-14 12:29:30,384 - INFO - 类型: geoip
-domain 被过滤掉的条目数量: 0
-剩余规则总数: 0
-规则分析:
-  domain 条目数: 0
-  domain_suffix 条目数: 0
-  ip_cidr 条目数: 0
-  process_name 条目数: 0
-  domain_regex 条目数: 0
---------------------------------------------------
-2025-11-14 12:29:30,438 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/vpnApp-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/vpnApp-filter.json
-2025-11-14 12:29:30,439 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:30,439 - INFO - filter-vpnAPP@!cn 规则整理完成:
-2025-11-14 12:29:30,439 - INFO - 类型: process
+2025-11-15 12:25:50,483 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-eu@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-eu@amos.json
+2025-11-15 12:25:50,484 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:50,485 - INFO - geolocation-eu 规则整理完成:
+2025-11-15 12:25:50,485 - INFO - 类型: geoip
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -319,8 +306,21 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:30,533 - INFO - category-antip@cn 规则整理完成:
-2025-11-14 12:29:30,533 - INFO - 类型: geosite
+2025-11-15 12:25:50,618 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/vpnApp-filter.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/vpnApp-filter.json
+2025-11-15 12:25:50,619 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:50,620 - INFO - filter-vpnAPP@!cn 规则整理完成:
+2025-11-15 12:25:50,620 - INFO - 类型: process
+domain 被过滤掉的条目数量: 0
+剩余规则总数: 0
+规则分析:
+  domain 条目数: 0
+  domain_suffix 条目数: 0
+  ip_cidr 条目数: 0
+  process_name 条目数: 0
+  domain_regex 条目数: 0
+--------------------------------------------------
+2025-11-15 12:25:50,767 - INFO - category-antip@cn 规则整理完成:
+2025-11-15 12:25:50,768 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 23
 规则分析:
@@ -330,10 +330,10 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:32,511 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-category-proxy@dns.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-category-proxy@dns.json
-2025-11-14 12:29:32,513 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:32,513 - INFO - category-proxy@dns 规则整理完成:
-2025-11-14 12:29:32,513 - INFO - 类型: geosite
+2025-11-15 12:25:52,807 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-category-proxy@dns.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-category-proxy@dns.json
+2025-11-15 12:25:52,808 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:52,809 - INFO - category-proxy@dns 规则整理完成:
+2025-11-15 12:25:52,809 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -343,15 +343,15 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:33,126 - ERROR - 解析 https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/GoogleDrive.yaml 时出错：404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/GoogleDrive.yaml
-2025-11-14 12:29:33,128 - ERROR - 解析链接 https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/GoogleDrive.yaml 出现错误: 'pattern'
-2025-11-14 12:29:33,444 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-download@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-download@amos.json
-2025-11-14 12:29:33,507 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:33,507 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:33,562 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-download@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-download@amos.json
-2025-11-14 12:29:33,563 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:33,563 - INFO - category-download@!cn 规则整理完成:
-2025-11-14 12:29:33,563 - INFO - 类型: geosite
+2025-11-15 12:25:55,643 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-download@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-download@amos.json
+2025-11-15 12:25:56,074 - ERROR - 解析 https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/GoogleDrive.yaml 时出错：404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/GoogleDrive.yaml
+2025-11-15 12:25:56,076 - ERROR - 解析链接 https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/GoogleDrive.yaml 出现错误: 'pattern'
+2025-11-15 12:25:56,379 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:56,379 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:56,517 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-download@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geoip-download@amos.json
+2025-11-15 12:25:56,518 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:56,519 - INFO - category-download@!cn 规则整理完成:
+2025-11-15 12:25:56,519 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 2
 剩余规则总数: 192
 规则分析:
@@ -361,7 +361,7 @@ domain 被过滤掉的条目数量: 2
   process_name 条目数: 0
   domain_regex 条目数: 3
 --------------------------------------------------
-2025-11-14 12:29:33,563 - INFO - 类型: geoip
+2025-11-15 12:25:56,519 - INFO - 类型: geoip
 domain 被过滤掉的条目数量: 0
 剩余规则总数: 0
 规则分析:
@@ -371,10 +371,10 @@ domain 被过滤掉的条目数量: 0
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:33,946 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-blocklist@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-blocklist@amos.json
-2025-11-14 12:29:33,975 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
-2025-11-14 12:29:34,708 - INFO - blocker-trash 规则整理完成:
-2025-11-14 12:29:34,709 - INFO - 类型: geosite
+2025-11-15 12:25:56,652 - ERROR - 下载 JSON 文件失败: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-blocklist@amos.json, 错误: 404 Client Error: Not Found for url: https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/refs/heads/main/self-host/geosite-blocklist@amos.json
+2025-11-15 12:25:57,143 - ERROR - 解析 JSON 数据时出错: 'NoneType' object has no attribute 'get'
+2025-11-15 12:25:57,976 - INFO - blocker-trash 规则整理完成:
+2025-11-15 12:25:57,976 - INFO - 类型: geosite
 domain 被过滤掉的条目数量: 45900
 剩余规则总数: 102798
 规则分析:
@@ -384,91 +384,91 @@ domain 被过滤掉的条目数量: 45900
   process_name 条目数: 0
   domain_regex 条目数: 0
 --------------------------------------------------
-2025-11-14 12:29:34,709 - INFO - 处理类别：geoip-category-video
-2025-11-14 12:29:34,709 - INFO - 跳过处理 geoip-category-video，因为没有全体文件
-2025-11-14 12:29:34,709 - INFO - 处理类别：geosite-category-media
-2025-11-14 12:29:34,730 - INFO - 处理类别：geosite-category-proxy
-2025-11-14 12:29:34,730 - INFO - 跳过处理 geosite-category-proxy，因为没有全体文件
-2025-11-14 12:29:34,730 - INFO - 处理类别：geosite-category-direct
-2025-11-14 12:29:34,740 - INFO - 跳过处理 geosite-category-direct，因为没有 @cn 或 @!cn 文件
-2025-11-14 12:29:34,741 - INFO - 处理类别：geosite-category-vpn
-2025-11-14 12:29:34,741 - INFO - 跳过处理 geosite-category-vpn，因为没有全体文件
-2025-11-14 12:29:34,741 - INFO - 处理类别：geosite-category-game
-2025-11-14 12:29:34,747 - INFO - 处理类别：geosite-category-antip
-2025-11-14 12:29:34,747 - INFO - 跳过处理 geosite-category-antip，因为没有全体文件
-2025-11-14 12:29:34,747 - INFO - 处理类别：geosite-category-nsfw
-2025-11-14 12:29:34,747 - INFO - 跳过处理 geosite-category-nsfw，因为没有全体文件
-2025-11-14 12:29:34,747 - INFO - 处理类别：geosite-category-communication
-2025-11-14 12:29:34,747 - INFO - 跳过处理 geosite-category-communication，因为没有全体文件
-2025-11-14 12:29:34,747 - INFO - 处理类别：geoip-category-download
-2025-11-14 12:29:34,747 - INFO - 跳过处理 geoip-category-download，因为没有全体文件
-2025-11-14 12:29:34,747 - INFO - 处理类别：geoip-category-vpn
-2025-11-14 12:29:34,747 - INFO - 跳过处理 geoip-category-vpn，因为没有全体文件
-2025-11-14 12:29:34,747 - INFO - 处理类别：geoip-category-direct
-2025-11-14 12:29:34,749 - INFO - 跳过处理 geoip-category-direct，因为没有 @cn 或 @!cn 文件
-2025-11-14 12:29:34,749 - INFO - 处理类别：geosite-category-download
-2025-11-14 12:29:34,749 - INFO - 跳过处理 geosite-category-download，因为没有全体文件
-2025-11-14 12:29:34,749 - INFO - 处理类别：geoip-category-communication
-2025-11-14 12:29:34,749 - INFO - 跳过处理 geoip-category-communication，因为没有全体文件
-2025-11-14 12:29:34,749 - INFO - 处理类别：geoip-category-game
-2025-11-14 12:29:34,749 - INFO - 跳过处理 geoip-category-game，因为没有 @cn 或 @!cn 文件
-2025-11-14 12:29:34,749 - INFO - 处理类别：geosite-category-video
-2025-11-14 12:29:34,749 - INFO - 跳过处理 geosite-category-video，因为没有全体文件
-2025-11-14 12:29:36,875 - INFO - 转换完成: ./rule/singbox/geoip-category-video@!cn.json → ./rule/surge/geoip-category-video@!cn.list, ./rule/shadowrocket/geoip-category-video@!cn.list
-2025-11-14 12:29:36,876 - INFO - 转换完成: ./rule/singbox/geoip-geolocation-eu.json → ./rule/surge/geoip-geolocation-eu.list, ./rule/shadowrocket/geoip-geolocation-eu.list
-2025-11-14 12:29:36,876 - INFO - 转换完成: ./rule/singbox/geosite-category-game@!cn.json → ./rule/surge/geosite-category-game@!cn.list, ./rule/shadowrocket/geosite-category-game@!cn.list
-2025-11-14 12:29:36,877 - INFO - 转换完成: ./rule/singbox/geosite-category-media@cn.json → ./rule/surge/geosite-category-media@cn.list, ./rule/shadowrocket/geosite-category-media@cn.list
-2025-11-14 12:29:36,877 - INFO - 转换完成: ./rule/singbox/geosite-category-proxy@dns.json → ./rule/surge/geosite-category-proxy@dns.list, ./rule/shadowrocket/geosite-category-proxy@dns.list
-2025-11-14 12:29:36,877 - INFO - 转换完成: ./rule/singbox/geosite-filter-fakeip.json → ./rule/surge/geosite-filter-fakeip.list, ./rule/shadowrocket/geosite-filter-fakeip.list
-2025-11-14 12:29:36,877 - INFO - 转换完成: ./rule/singbox/process-filter-vpnAPP@!cn.json → ./rule/surge/process-filter-vpnAPP@!cn.list, ./rule/shadowrocket/process-filter-vpnAPP@!cn.list
-2025-11-14 12:29:36,928 - INFO - 转换完成: ./rule/singbox/geosite-category-direct.json → ./rule/surge/geosite-category-direct.list, ./rule/shadowrocket/geosite-category-direct.list
-2025-11-14 12:29:36,932 - INFO - 转换完成: ./rule/singbox/geosite-category-vpn@!cn.json → ./rule/surge/geosite-category-vpn@!cn.list, ./rule/shadowrocket/geosite-category-vpn@!cn.list
-2025-11-14 12:29:36,934 - INFO - 转换完成: ./rule/singbox/geosite-category-media@!cn.json → ./rule/surge/geosite-category-media@!cn.list, ./rule/shadowrocket/geosite-category-media@!cn.list
-2025-11-14 12:29:36,934 - INFO - 转换完成: ./rule/singbox/geosite-category-game@cn.json → ./rule/surge/geosite-category-game@cn.list, ./rule/shadowrocket/geosite-category-game@cn.list
-2025-11-14 12:29:36,946 - INFO - 转换完成: ./rule/singbox/geosite-geolocation-!cn.json → ./rule/surge/geosite-geolocation-!cn.list, ./rule/shadowrocket/geosite-geolocation-!cn.list
-2025-11-14 12:29:36,947 - INFO - 转换完成: ./rule/singbox/process-filter-directApp.json → ./rule/surge/process-filter-directApp.list, ./rule/shadowrocket/process-filter-directApp.list
-2025-11-14 12:29:36,947 - INFO - 转换完成: ./rule/singbox/geosite-category-antip@cn.json → ./rule/surge/geosite-category-antip@cn.list, ./rule/shadowrocket/geosite-category-antip@cn.list
-2025-11-14 12:29:36,950 - INFO - 转换完成: ./rule/singbox/geosite-category-nsfw@!cn.json → ./rule/surge/geosite-category-nsfw@!cn.list, ./rule/shadowrocket/geosite-category-nsfw@!cn.list
-2025-11-14 12:29:36,950 - INFO - 转换完成: ./rule/singbox/geosite-geolocation-jp.json → ./rule/surge/geosite-geolocation-jp.list, ./rule/shadowrocket/geosite-geolocation-jp.list
-2025-11-14 12:29:36,996 - INFO - 转换完成: ./rule/singbox/geosite-blocker-trash.json → ./rule/surge/geosite-blocker-trash.list, ./rule/shadowrocket/geosite-blocker-trash.list
-2025-11-14 12:29:37,000 - INFO - 转换完成: ./rule/singbox/geosite-category-antip@dev.json → ./rule/surge/geosite-category-antip@dev.list, ./rule/shadowrocket/geosite-category-antip@dev.list
-2025-11-14 12:29:37,000 - INFO - 转换完成: ./rule/singbox/process-filter-browser.json → ./rule/surge/process-filter-browser.list, ./rule/shadowrocket/process-filter-browser.list
-2025-11-14 12:29:37,000 - INFO - 转换完成: ./rule/singbox/geosite-category-communication@!cn.json → ./rule/surge/geosite-category-communication@!cn.list, ./rule/shadowrocket/geosite-category-communication@!cn.list
-2025-11-14 12:29:37,000 - INFO - 转换完成: ./rule/singbox/process-blocker-rejectApp@amos.json → ./rule/surge/process-blocker-rejectApp@amos.list, ./rule/shadowrocket/process-blocker-rejectApp@amos.list
-2025-11-14 12:29:37,000 - INFO - 转换完成: ./rule/singbox/geoip-category-download@!cn.json → ./rule/surge/geoip-category-download@!cn.list, ./rule/shadowrocket/geoip-category-download@!cn.list
-2025-11-14 12:29:37,001 - INFO - 转换完成: ./rule/singbox/geoip-category-vpn@!cn.json → ./rule/surge/geoip-category-vpn@!cn.list, ./rule/shadowrocket/geoip-category-vpn@!cn.list
-2025-11-14 12:29:37,001 - INFO - 转换完成: ./rule/singbox/process-filter-communicationApp@!cn.json → ./rule/surge/process-filter-communicationApp@!cn.list, ./rule/shadowrocket/process-filter-communicationApp@!cn.list
-2025-11-14 12:29:37,009 - INFO - 转换完成: ./rule/singbox/geoip-category-direct.json → ./rule/surge/geoip-category-direct.list, ./rule/shadowrocket/geoip-category-direct.list
-2025-11-14 12:29:37,010 - INFO - 转换完成: ./rule/singbox/geosite-category-download@!cn.json → ./rule/surge/geosite-category-download@!cn.list, ./rule/shadowrocket/geosite-category-download@!cn.list
-2025-11-14 12:29:37,010 - INFO - 转换完成: ./rule/singbox/process-filter-downloadApp@!cn.json → ./rule/surge/process-filter-downloadApp@!cn.list, ./rule/shadowrocket/process-filter-downloadApp@!cn.list
-2025-11-14 12:29:37,011 - INFO - 转换完成: ./rule/singbox/geoip-geolocation-jp.json → ./rule/surge/geoip-geolocation-jp.list, ./rule/shadowrocket/geoip-geolocation-jp.list
-2025-11-14 12:29:37,011 - INFO - 转换完成: ./rule/singbox/geoip-category-communication@!cn.json → ./rule/surge/geoip-category-communication@!cn.list, ./rule/shadowrocket/geoip-category-communication@!cn.list
-2025-11-14 12:29:37,011 - INFO - 转换完成: ./rule/singbox/geoip-category-game.json → ./rule/surge/geoip-category-game.list, ./rule/shadowrocket/geoip-category-game.list
-2025-11-14 12:29:37,011 - INFO - 转换完成: ./rule/singbox/geosite-category-video@!cn.json → ./rule/surge/geosite-category-video@!cn.list, ./rule/shadowrocket/geosite-category-video@!cn.list
-2025-11-14 12:29:38,383 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-direct.mrs
-2025-11-14 12:29:38,422 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-video@!cn.mrs
-2025-11-14 12:29:38,472 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-media@!cn.mrs
-2025-11-14 12:29:38,483 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-geolocation-jp.mrs
-2025-11-14 12:29:38,513 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-antip@dev.mrs
-2025-11-14 12:29:38,541 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-antip@cn.mrs
-2025-11-14 12:29:38,571 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-communication@!cn.mrs
-2025-11-14 12:29:38,663 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-nsfw@!cn.mrs
-2025-11-14 12:29:38,691 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-communication@!cn.mrs
-2025-11-14 12:29:38,701 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-proxy@dns.mrs
-2025-11-14 12:29:38,730 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-download@!cn.mrs
-2025-11-14 12:29:38,759 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-game.mrs
-2025-11-14 12:29:38,793 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-game@!cn.mrs
-2025-11-14 12:29:39,758 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-blocker-trash.mrs
-2025-11-14 12:29:39,797 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-vpn@!cn.mrs
-2025-11-14 12:29:39,831 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-video@!cn.mrs
-2025-11-14 12:29:39,842 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-geolocation-jp.mrs
-2025-11-14 12:29:39,872 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-game@cn.mrs
-2025-11-14 12:29:40,025 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-direct.mrs
-2025-11-14 12:29:40,036 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-download@!cn.mrs
-2025-11-14 12:29:40,323 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-geolocation-!cn.mrs
-2025-11-14 12:29:40,357 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-vpn@!cn.mrs
-2025-11-14 12:29:40,386 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-filter-fakeip.mrs
-2025-11-14 12:29:40,417 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-media@cn.mrs
-2025-11-14 12:29:40,427 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-geolocation-eu.mrs
-2025-11-14 12:29:40,445 - INFO - ✅ sing-box 配置合并成功
-2025-11-14 12:29:40,445 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
+2025-11-15 12:25:57,976 - INFO - 处理类别：geoip-category-video
+2025-11-15 12:25:57,976 - INFO - 跳过处理 geoip-category-video，因为没有全体文件
+2025-11-15 12:25:57,976 - INFO - 处理类别：geosite-category-media
+2025-11-15 12:25:57,996 - INFO - 处理类别：geosite-category-proxy
+2025-11-15 12:25:57,996 - INFO - 跳过处理 geosite-category-proxy，因为没有全体文件
+2025-11-15 12:25:57,996 - INFO - 处理类别：geosite-category-direct
+2025-11-15 12:25:58,006 - INFO - 跳过处理 geosite-category-direct，因为没有 @cn 或 @!cn 文件
+2025-11-15 12:25:58,008 - INFO - 处理类别：geosite-category-vpn
+2025-11-15 12:25:58,008 - INFO - 跳过处理 geosite-category-vpn，因为没有全体文件
+2025-11-15 12:25:58,008 - INFO - 处理类别：geosite-category-game
+2025-11-15 12:25:58,014 - INFO - 处理类别：geosite-category-antip
+2025-11-15 12:25:58,014 - INFO - 跳过处理 geosite-category-antip，因为没有全体文件
+2025-11-15 12:25:58,014 - INFO - 处理类别：geosite-category-nsfw
+2025-11-15 12:25:58,014 - INFO - 跳过处理 geosite-category-nsfw，因为没有全体文件
+2025-11-15 12:25:58,014 - INFO - 处理类别：geosite-category-communication
+2025-11-15 12:25:58,014 - INFO - 跳过处理 geosite-category-communication，因为没有全体文件
+2025-11-15 12:25:58,014 - INFO - 处理类别：geoip-category-download
+2025-11-15 12:25:58,015 - INFO - 跳过处理 geoip-category-download，因为没有全体文件
+2025-11-15 12:25:58,015 - INFO - 处理类别：geoip-category-vpn
+2025-11-15 12:25:58,015 - INFO - 跳过处理 geoip-category-vpn，因为没有全体文件
+2025-11-15 12:25:58,015 - INFO - 处理类别：geoip-category-direct
+2025-11-15 12:25:58,016 - INFO - 跳过处理 geoip-category-direct，因为没有 @cn 或 @!cn 文件
+2025-11-15 12:25:58,017 - INFO - 处理类别：geosite-category-download
+2025-11-15 12:25:58,017 - INFO - 跳过处理 geosite-category-download，因为没有全体文件
+2025-11-15 12:25:58,017 - INFO - 处理类别：geoip-category-communication
+2025-11-15 12:25:58,017 - INFO - 跳过处理 geoip-category-communication，因为没有全体文件
+2025-11-15 12:25:58,017 - INFO - 处理类别：geoip-category-game
+2025-11-15 12:25:58,017 - INFO - 跳过处理 geoip-category-game，因为没有 @cn 或 @!cn 文件
+2025-11-15 12:25:58,017 - INFO - 处理类别：geosite-category-video
+2025-11-15 12:25:58,017 - INFO - 跳过处理 geosite-category-video，因为没有全体文件
+2025-11-15 12:26:00,245 - INFO - 转换完成: ./rule/singbox/geoip-category-video@!cn.json → ./rule/surge/geoip-category-video@!cn.list, ./rule/shadowrocket/geoip-category-video@!cn.list
+2025-11-15 12:26:00,245 - INFO - 转换完成: ./rule/singbox/geoip-geolocation-eu.json → ./rule/surge/geoip-geolocation-eu.list, ./rule/shadowrocket/geoip-geolocation-eu.list
+2025-11-15 12:26:00,245 - INFO - 转换完成: ./rule/singbox/geosite-category-game@!cn.json → ./rule/surge/geosite-category-game@!cn.list, ./rule/shadowrocket/geosite-category-game@!cn.list
+2025-11-15 12:26:00,246 - INFO - 转换完成: ./rule/singbox/geosite-category-media@cn.json → ./rule/surge/geosite-category-media@cn.list, ./rule/shadowrocket/geosite-category-media@cn.list
+2025-11-15 12:26:00,246 - INFO - 转换完成: ./rule/singbox/geosite-category-proxy@dns.json → ./rule/surge/geosite-category-proxy@dns.list, ./rule/shadowrocket/geosite-category-proxy@dns.list
+2025-11-15 12:26:00,246 - INFO - 转换完成: ./rule/singbox/geosite-filter-fakeip.json → ./rule/surge/geosite-filter-fakeip.list, ./rule/shadowrocket/geosite-filter-fakeip.list
+2025-11-15 12:26:00,246 - INFO - 转换完成: ./rule/singbox/process-filter-vpnAPP@!cn.json → ./rule/surge/process-filter-vpnAPP@!cn.list, ./rule/shadowrocket/process-filter-vpnAPP@!cn.list
+2025-11-15 12:26:00,299 - INFO - 转换完成: ./rule/singbox/geosite-category-direct.json → ./rule/surge/geosite-category-direct.list, ./rule/shadowrocket/geosite-category-direct.list
+2025-11-15 12:26:00,304 - INFO - 转换完成: ./rule/singbox/geosite-category-vpn@!cn.json → ./rule/surge/geosite-category-vpn@!cn.list, ./rule/shadowrocket/geosite-category-vpn@!cn.list
+2025-11-15 12:26:00,305 - INFO - 转换完成: ./rule/singbox/geosite-category-media@!cn.json → ./rule/surge/geosite-category-media@!cn.list, ./rule/shadowrocket/geosite-category-media@!cn.list
+2025-11-15 12:26:00,306 - INFO - 转换完成: ./rule/singbox/geosite-category-game@cn.json → ./rule/surge/geosite-category-game@cn.list, ./rule/shadowrocket/geosite-category-game@cn.list
+2025-11-15 12:26:00,318 - INFO - 转换完成: ./rule/singbox/geosite-geolocation-!cn.json → ./rule/surge/geosite-geolocation-!cn.list, ./rule/shadowrocket/geosite-geolocation-!cn.list
+2025-11-15 12:26:00,320 - INFO - 转换完成: ./rule/singbox/process-filter-directApp.json → ./rule/surge/process-filter-directApp.list, ./rule/shadowrocket/process-filter-directApp.list
+2025-11-15 12:26:00,320 - INFO - 转换完成: ./rule/singbox/geosite-category-antip@cn.json → ./rule/surge/geosite-category-antip@cn.list, ./rule/shadowrocket/geosite-category-antip@cn.list
+2025-11-15 12:26:00,323 - INFO - 转换完成: ./rule/singbox/geosite-category-nsfw@!cn.json → ./rule/surge/geosite-category-nsfw@!cn.list, ./rule/shadowrocket/geosite-category-nsfw@!cn.list
+2025-11-15 12:26:00,323 - INFO - 转换完成: ./rule/singbox/geosite-geolocation-jp.json → ./rule/surge/geosite-geolocation-jp.list, ./rule/shadowrocket/geosite-geolocation-jp.list
+2025-11-15 12:26:00,372 - INFO - 转换完成: ./rule/singbox/geosite-blocker-trash.json → ./rule/surge/geosite-blocker-trash.list, ./rule/shadowrocket/geosite-blocker-trash.list
+2025-11-15 12:26:00,377 - INFO - 转换完成: ./rule/singbox/geosite-category-antip@dev.json → ./rule/surge/geosite-category-antip@dev.list, ./rule/shadowrocket/geosite-category-antip@dev.list
+2025-11-15 12:26:00,377 - INFO - 转换完成: ./rule/singbox/process-filter-browser.json → ./rule/surge/process-filter-browser.list, ./rule/shadowrocket/process-filter-browser.list
+2025-11-15 12:26:00,377 - INFO - 转换完成: ./rule/singbox/geosite-category-communication@!cn.json → ./rule/surge/geosite-category-communication@!cn.list, ./rule/shadowrocket/geosite-category-communication@!cn.list
+2025-11-15 12:26:00,377 - INFO - 转换完成: ./rule/singbox/process-blocker-rejectApp@amos.json → ./rule/surge/process-blocker-rejectApp@amos.list, ./rule/shadowrocket/process-blocker-rejectApp@amos.list
+2025-11-15 12:26:00,378 - INFO - 转换完成: ./rule/singbox/geoip-category-download@!cn.json → ./rule/surge/geoip-category-download@!cn.list, ./rule/shadowrocket/geoip-category-download@!cn.list
+2025-11-15 12:26:00,378 - INFO - 转换完成: ./rule/singbox/geoip-category-vpn@!cn.json → ./rule/surge/geoip-category-vpn@!cn.list, ./rule/shadowrocket/geoip-category-vpn@!cn.list
+2025-11-15 12:26:00,378 - INFO - 转换完成: ./rule/singbox/process-filter-communicationApp@!cn.json → ./rule/surge/process-filter-communicationApp@!cn.list, ./rule/shadowrocket/process-filter-communicationApp@!cn.list
+2025-11-15 12:26:00,387 - INFO - 转换完成: ./rule/singbox/geoip-category-direct.json → ./rule/surge/geoip-category-direct.list, ./rule/shadowrocket/geoip-category-direct.list
+2025-11-15 12:26:00,388 - INFO - 转换完成: ./rule/singbox/geosite-category-download@!cn.json → ./rule/surge/geosite-category-download@!cn.list, ./rule/shadowrocket/geosite-category-download@!cn.list
+2025-11-15 12:26:00,388 - INFO - 转换完成: ./rule/singbox/process-filter-downloadApp@!cn.json → ./rule/surge/process-filter-downloadApp@!cn.list, ./rule/shadowrocket/process-filter-downloadApp@!cn.list
+2025-11-15 12:26:00,388 - INFO - 转换完成: ./rule/singbox/geoip-geolocation-jp.json → ./rule/surge/geoip-geolocation-jp.list, ./rule/shadowrocket/geoip-geolocation-jp.list
+2025-11-15 12:26:00,389 - INFO - 转换完成: ./rule/singbox/geoip-category-communication@!cn.json → ./rule/surge/geoip-category-communication@!cn.list, ./rule/shadowrocket/geoip-category-communication@!cn.list
+2025-11-15 12:26:00,389 - INFO - 转换完成: ./rule/singbox/geoip-category-game.json → ./rule/surge/geoip-category-game.list, ./rule/shadowrocket/geoip-category-game.list
+2025-11-15 12:26:00,389 - INFO - 转换完成: ./rule/singbox/geosite-category-video@!cn.json → ./rule/surge/geosite-category-video@!cn.list, ./rule/shadowrocket/geosite-category-video@!cn.list
+2025-11-15 12:26:01,928 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-direct.mrs
+2025-11-15 12:26:01,970 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-video@!cn.mrs
+2025-11-15 12:26:02,029 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-media@!cn.mrs
+2025-11-15 12:26:02,040 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-geolocation-jp.mrs
+2025-11-15 12:26:02,077 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-antip@dev.mrs
+2025-11-15 12:26:02,109 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-antip@cn.mrs
+2025-11-15 12:26:02,142 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-communication@!cn.mrs
+2025-11-15 12:26:02,250 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-nsfw@!cn.mrs
+2025-11-15 12:26:02,282 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-communication@!cn.mrs
+2025-11-15 12:26:02,293 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-proxy@dns.mrs
+2025-11-15 12:26:02,326 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-download@!cn.mrs
+2025-11-15 12:26:02,358 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-game.mrs
+2025-11-15 12:26:02,396 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-game@!cn.mrs
+2025-11-15 12:26:03,482 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-blocker-trash.mrs
+2025-11-15 12:26:03,524 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-vpn@!cn.mrs
+2025-11-15 12:26:03,560 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-video@!cn.mrs
+2025-11-15 12:26:03,571 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-geolocation-jp.mrs
+2025-11-15 12:26:03,602 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-game@cn.mrs
+2025-11-15 12:26:03,772 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-direct.mrs
+2025-11-15 12:26:03,782 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-category-download@!cn.mrs
+2025-11-15 12:26:04,089 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-geolocation-!cn.mrs
+2025-11-15 12:26:04,126 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-vpn@!cn.mrs
+2025-11-15 12:26:04,155 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-filter-fakeip.mrs
+2025-11-15 12:26:04,187 - INFO - 成功生成 MRS 文件: ./rule/clash/geosite-category-media@cn.mrs
+2025-11-15 12:26:04,197 - INFO - 成功生成 MRS 文件: ./rule/clash/geoip-geolocation-eu.mrs
+2025-11-15 12:26:04,216 - INFO - ✅ sing-box 配置合并成功
+2025-11-15 12:26:04,216 - INFO - ✅ 已将配置文件移动至: /home/runner/work/proxy-ruleset-manager/proxy-ruleset-manager/template/singbox/config.json
