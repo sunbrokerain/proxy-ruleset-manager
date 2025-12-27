@@ -347,6 +347,13 @@
         "download_detour":"下载 (海外服务)"
       },
       {
+        "tag":"adguard-blocker@aio",
+        "type":"remote",
+        "format":"binary",
+        "url":"https://raw.githubusercontent.com/vstar37/proxy-ruleset-manager/main/rule/singbox/adguard-blocker@aio.srs",
+        "download_detour":"下载 (海外服务)"
+      },
+      {
         "tag":"geoip-geolocation-eu",
         "type":"remote",
         "format":"binary",
