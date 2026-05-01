@@ -1,30 +1,30 @@
 payload:
-  - PROCESS-NAME,baidunetdisk.exe
-  - PROCESS-NAME,Folx.exe
-  - PROCESS-NAME,Thunder.exe
-  - PROCESS-NAME,BitComet_x64.exe
-  - PROCESS-NAME,BitComet
   - PROCESS-NAME,NetTransport
-  - PROCESS-NAME,WebTorrent
   - PROCESS-NAME,Weiyun
-  - PROCESS-NAME,BitComet.exe
-  - PROCESS-NAME,Thunder
-  - PROCESS-NAME,Transmission.exe
-  - PROCESS-NAME,Transmission
-  - PROCESS-NAME,aria2c.exe
-  - PROCESS-NAME,Weiyun.exe
-  - PROCESS-NAME,Folx
-  - PROCESS-NAME,qbittorrent
-  - PROCESS-NAME,WebTorrentHelper.exe
-  - PROCESS-NAME,NetTransport.exe
-  - PROCESS-NAME,fdm.exe
-  - PROCESS-NAME,fdm
-  - PROCESS-NAME,WebTorrentHelper
-  - PROCESS-NAME,qbittorrent.exe
-  - PROCESS-NAME,WebTorrent.exe
-  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,BitComet
   - PROCESS-NAME,DownloadService
-  - PROCESS-NAME,DownloadService.exe
-  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,fdm.exe
+  - PROCESS-NAME,aria2c
+  - PROCESS-NAME,BitComet_x64.exe
+  - PROCESS-NAME,WebTorrent.exe
+  - PROCESS-NAME,Transmission.exe
+  - PROCESS-NAME,BitComet.exe
+  - PROCESS-NAME,Weiyun.exe
+  - PROCESS-NAME,Folx.exe
+  - PROCESS-NAME,fdm
+  - PROCESS-NAME,baidunetdisk.exe
+  - PROCESS-NAME,Thunder
   - PROCESS-NAME,uTorrent.exe
+  - PROCESS-NAME,NetTransport.exe
+  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,Folx
+  - PROCESS-NAME,WebTorrentHelper
+  - PROCESS-NAME,WebTorrent
+  - PROCESS-NAME,uTorrent
+  - PROCESS-NAME,qbittorrent.exe
+  - PROCESS-NAME,Thunder.exe
+  - PROCESS-NAME,WebTorrentHelper.exe
+  - PROCESS-NAME,DownloadService.exe
+  - PROCESS-NAME,aria2c.exe
+  - PROCESS-NAME,qbittorrent
   - '+.qbittorrent.org'
